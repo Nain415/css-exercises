@@ -32,18 +32,17 @@ body {
   width: 300px;
   background: royalblue;
   display: flex;
-  flex: 1 1 auto;
+  flex: 0 1 1;
   flex-direction: column;
 }
 
-.sidebar ul {
+.sidebar ul li {
 }
 
 
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
   flex: 1;
 }
 
