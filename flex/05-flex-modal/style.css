@@ -37,7 +37,7 @@ body {
   justify-content: center;
   flex-direction: column;
   flex-shrink: 0;
-  margin: 10px;
+  margin: 0px 10px 0px 0px;
 }
 
 .close-button {
@@ -83,4 +83,8 @@ button.cancel {
 .third.row {
   display: flex;
   margin: 10px 0px 0px 0px;
+}
+
+.text {
+  margin-right: 10px;
 }
