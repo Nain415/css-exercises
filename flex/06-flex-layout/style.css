@@ -30,11 +30,15 @@ input {
   display:flex;
 }
 
-.header .right-links {
+.header .right-links, .header .left-links {
   margin-left: auto;
   display: flex;
   gap: 1.2em;
-  margin-right: 1em;
+  margin-right: 1.2em;
+}
+
+.header .left-links {
+  margin-left: 0px;
 }
 
 ul {
