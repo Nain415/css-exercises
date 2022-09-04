@@ -14,6 +14,18 @@ img {
   justify-content:center;
 }
 
+.img_containers {
+  display: flex;
+}
+
+.first_img {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
