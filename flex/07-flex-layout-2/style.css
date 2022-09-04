@@ -29,6 +29,12 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
+.sidebar ul {
 }
 
 .card {
