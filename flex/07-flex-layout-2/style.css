@@ -55,8 +55,7 @@ a {
 
 .card-container {
   display: flex;
-  padding-left: 32px;
-  padding-right: 32px;
+  padding: 48px;
   flex-wrap: wrap;
   gap: 16px;
 }
@@ -65,7 +64,9 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-
+  width: 18vw;
+  flex: 0 1 1;
+  padding: 16px;
 }
 
 .content {
