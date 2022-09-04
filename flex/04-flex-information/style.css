@@ -28,6 +28,14 @@ img {
   text-align: center;
 }
 
+.first.img {
+  margin-left: 5em;
+}
+
+.fourth.img {
+  margin-right: 5em;
+}
+
 
 /* do not edit this footer */
 .footer {
