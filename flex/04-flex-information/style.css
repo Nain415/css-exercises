@@ -18,7 +18,7 @@ img {
   display: flex;
 }
 
-.first_img {
+.img_containers .img {
   display:flex;
   flex-direction: column;
   justify-content: center;
