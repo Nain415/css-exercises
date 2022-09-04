@@ -50,8 +50,9 @@ ul {
 .content {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  margin: auto;
+  /* justify-content: center;
+  align-items: center; */
 }
 
 .footer {
