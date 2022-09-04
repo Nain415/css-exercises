@@ -29,3 +29,10 @@ input {
 .header {
   display:flex;
 }
+
+.header .right-links {
+  margin-left: auto;
+  display: flex;
+  gap: 2em;
+  margin-right: 1em;
+}
