@@ -44,6 +44,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+  flex: 1;
 }
 
 .card {
@@ -54,5 +55,12 @@ body {
 
 .content {
   display: flex;
+  flex: 1
+}
+
+.content-footer {
+  display:flex;
+  flex-direction: column;
+  flex: 1;
 }
 
