@@ -79,3 +79,8 @@ button.cancel {
 .close-button {
   margin-left: auto;
 }
+
+.third.row {
+  display: flex;
+  margin: 10px 0px 0px 0px;
+}
