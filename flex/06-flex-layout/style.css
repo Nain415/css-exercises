@@ -33,6 +33,10 @@ input {
 .header .right-links {
   margin-left: auto;
   display: flex;
-  gap: 2em;
+  gap: 1.2em;
   margin-right: 1em;
+}
+
+ul {
+  list-style-type: none;
 }
