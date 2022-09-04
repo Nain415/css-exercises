@@ -72,11 +72,10 @@ button.cancel {
 
 .first.row {
   display:flex;
-  margin: 5px 10px 0px 5px;
+  margin: 5px 10px 10px 0px;
   align-items: center;
 }
 
 .close-button {
   margin-left: auto;
-  margin: 5px 5px 5px auto;
 }
