@@ -35,6 +35,7 @@ body {
   background: royalblue;
   display: flex;
   flex: none;
+  padding: 0px 16px 0px 16px;
 }
 
 .sidebar ul {
@@ -42,7 +43,7 @@ body {
   flex-direction: column;
   gap: 1em;
   list-style: none;
-  padding-inline-start: 1em;
+  padding-inline-start: 0px;
 }
 
 a {
