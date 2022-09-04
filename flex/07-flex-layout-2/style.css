@@ -10,6 +10,14 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-left: 16px;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .footer {
