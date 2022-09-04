@@ -58,6 +58,7 @@ ul {
 
 .footer {
   display: flex;
+  background-color: rgba(174, 164, 169, 0.16);
 }
 
 .footer .right-links, .footer .left-links {
