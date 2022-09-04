@@ -55,8 +55,8 @@ a {
 
 .card-container {
   display: flex;
-
-  flex: 1;
+  padding: 16px;
+  
 }
 
 .card {
